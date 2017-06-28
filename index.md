@@ -1,37 +1,208 @@
-## Welcome to GitHub Pages
+# 李孟东	
 
-You can use the [editor on GitHub](https://github.com/li-mengdong/li-mengdong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Android开发工程师
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人信息
 
-### Markdown
+GitHub：li-mengdong
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email：lmdzyd@163.com
 
-```markdown
-Syntax highlighted code block
+## 教育背景
 
-# Header 1
-## Header 2
-### Header 3
+2010.09–2014.06       XX大学		    计算机科学与技术专业
 
-- Bulleted
-- List
+## 工作经历
 
-1. Numbered
-2. List
+2014.04–2017.04		XX科技有限公司			Android开发工程师      
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 专业技能
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 具有独立开发经验和项目管理经验。
+- 熟悉java基础语言以及面向对象的编程思想。
+- 熟悉Android常见的几种屏幕适配方式。
+- 掌握github上主流UI框架的使用
+- 熟练使用常见的设计模式（单例模式、工厂模式、装饰者模式、适配器模式、观察者模式）。
+- 熟练使用Eclipse、Android studio、SVN、Git等常用开发工具。
+- 熟练使用MVC、MVP设计思想来进行项目的快速开发，达到高内聚、低耦合的开发目的。
+- 熟练使用常用第三方图片开源框架Glide，Universal-Image-Loader，Fresco，Picasso， ion。
+- 熟练使用常用第三方网络开源框架OKHttp，Retrofit，NoHttp，ion，XUtils。
+- 熟练使用Rxjava、Rxandroid框架开发应用。
+- 熟练掌握Handler、Message、Looper消息机制及AsyncTask异步任务机制。
+- 熟悉SQLServer、MySQL、SQLite数据库。
+- 熟悉常见数据库开源框架（GreenDao、LitePal、OrmLite）。
+- 熟悉XML、JSON数据格式的解析，熟悉HTTP协议，熟悉网络编程。
+- 熟悉Android测试，包括单元测试和Monkey测试。
+- 熟练自定义控件的开发，熟悉View的测量、布局、绘制流程。
+- 熟悉WebView的常用用法，并了解WebView的安全问题
+- 熟悉Apk的优化、瘦身、打包、加固、增量更新。
+- 熟练掌握Vitamio多媒体开发框架，以及MediaPlayer和SurfaceView多媒体播放控件。
+- 熟练使用讯飞语音、OAuth认证、shareSDK分享、极光推送等平台API
+- 熟练使用友盟统计SDK，熟悉上传错误信息和用户统计信息。
+- 熟练使用支付宝、微信支付和银联支付进行在线支付的功能。
+- 熟练使用百度地图、高德地图等第三方地图SDK实现定位、路线绘制、搜索等功能
+- 熟悉Android下网络通信技术，对Socket通信、TCP/IP、Http及Https有一定的了解
+- 了解常见的算法和数据结构，例如：堆、栈、链表、二叉树、图。
+- 了解Android 5.0 , 6.0，7.0新特性。
+- 了解C，C++，C#语言，能够在Java编程当中更好的辅助开发。
+- 了解Android 的JNI 开发，通过JNI实现JAVA与C/C++程序间的调用及回调。
 
-### Jekyll Themes
+## 项目经验
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/li-mengdong/li-mengdong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#####项目名称：	
 
-### Support or Contact
+####律律
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#####项目描述：	
+
+免费法律咨询，专业律师咨询，自营律师团队，汇聚律界精英，致力于提供各类专业的法律咨询服务； 
+
+- 免费咨询：法律咨询，法律服务，法律援助，即时在线免费10分钟咨询专业律师。 
+- 法律超市：合同文书模板下载/定制，企业法律培训服务，低价雇佣法律团队服务。 
+- 法条检索：中国法律大全，法律法规，宪法，民法，刑法，诉讼，行政，婚姻，继承、合同法，劳动法，金融、侵权、公司、工商、税务、证券等。 
+- 律师服务：律师咨询，找律师，律师委托，律师事务所咨询，律师函、警告信、律师陪同，私人律师，律师说法等。
+
+#####责任描述：
+
+1. 首页数据所有加载实现，为ViewPager轮播图加载图片数据，为RecyclerView展示咨询条目。
+2. 负责快速咨询模块的实现，包括页面的编写和咨询流程逻辑的实现。 
+3. 负责法条搜索模块的实现，包括法律条目数据加载、法律条目数据展示和法律数据搜索的实现。 
+4. 负责法律超市模块的实现，包括页面的编写、法律合同数据加载、合同模板的展示。
+5. 负责法律超市提交购买合同订单和付款流程逻辑的实现。
+6. 负责工具箱模块的实现，包括利息计算、个税计算。
+7. 负责精选页面WebView页面的实现，包括评论、点赞、分享。
+
+
+#####技术要点：
+
+1.  UI采用materialDesign设计风格。
+
+2.  使用FragmentTableHost + Fragment来搭建整个应用的结构框架
+
+3.  使用顶部带轮播图的FancyCoverFlow展现推荐内容列表。
+
+4.  使用TabLayout+Viewpager实现滑动展示页面。
+
+5.  使用Rcyclerview实现顶部推荐展示
+
+6.  使用SwipeRefreshLayout实现下拉刷新上拉加载功能
+
+7.  使用WebView展现图文混排的内容详细信息。
+
+8.  使用PhotoView查看内容页面中包含的所有图片。
+
+9.  使用Retrofit+ Rxjava作为客户端服务器端数据请求和交互的框架。
+
+10.  使用ImageLoader加载并缓存图片。
+
+11.  使用Gson框架解析从服务器返回的所有商品信息数据。
+
+12.  集成支付宝和微信两种支付方式。
+
+13.  集成友盟统计，用于统计用户使用情况和统计应用异常错误。
+
+14.  使用OrmLite数据库框架。
+
+15.  使用shareSDK实现分享功能。
+
+16.  使用观察者模式设计订单流程。
+
+17.  使用MVP的代码编程结构。
+
+
+
+#####项目名称：	
+
+####东家
+
+#####项目描述：	
+
+东家，一切围绕匠人的电商平台；让匠人和作品被看见、让匠人的声音被听见，让东方美学融入生活点滴，让传承成为潮流。 
+
+- 匠人：5000位国际/国大师/省级大师、青年匠人、新锐设计师。 
+- 作品：茶器、茶叶、玉石珠宝、家居、文房、古法食品、日本器物，百万件东家独有孤品，更有柔性定制。
+- 直播：匠人真实手艺展示，可边看边问边买。 
+- 拍卖：强互动的创新拍卖模式，专业审核，竞价公开透明，七天包退。 
+- 互动：拉近我们和匠人的距离，和匠人交朋友。
+
+#####责任描述：
+
+1. 实现首页数据加载展现，使用Rcyclerview实现首页条目列表，首页条目列表实现三种类型，包括GridView实现的推荐列表、RcyclerView实现的视频列表和RecyclerView实现的热点话题。
+2. 负责分享模块的实现，包括编辑和分享，拍摄视频或照片并附上文字便可发布；发布后可以进行评论、点赞、分享。
+3. 负责视频条目的实现，包括视频列表的实现和视频播放页面的实现。
+4. 负责热点条目的实现，包括热点列表的实现和加载Html页面的实现。
+5. 负责首页展示框架的实现。
+6. 负责拍卖页面的实现，包括拍卖商品的展示、商品拍卖提交订单逻辑的实现、付款逻辑的实现以及商品派送状态逻辑的实现。
+
+#####技术要点：
+
+1. 使用RadioGroup + Fragment来搭建整个应用的结构框架。
+2. 使用GridView实现推荐内容。
+3. 使用TabLayout+Viewpager实现滑动展示页面。
+4. 使用Rcyclerview实现首页条目列表。
+5. 使用Pulltorefresh实现下拉刷新上拉加载功能。
+6. 使用WebView展现图文混排的内容详细信息。
+7. 使用PhotoView查看商品展示页面中包含的所有图片。
+8. 使用Nohttp作为网络框架。
+9. 使用Glide加载并缓存图片。
+10. 使用Gson框架解析从服务器返回的所有商品信息数据。
+11. 集成支付宝和微信两种支付方式。
+12. 集成友盟统计，用于统计用户使用情况和统计应用异常错误。
+13. 使用GreenDAO数据库框架。
+14. 快速咨询页面集成环信实现即时通信。
+15. 使用shareSDK实现分享功能。
+16. 使用观察者模式设计合同服务流程。
+17. 使用MVP的代码编程结构。
+18. 使用Rxjava的编程思想。
+
+#####项目名称：
+
+####国青社区
+
+#####项目描述：	
+
+国青社区是中央国家机关团工委提议，专门为国家机关青年量身打造的一个社区平台，在这里可以发布帖子，创建属于自己的专版模块，寻找并参与自己喜欢的活动、与大家评论互动、在线报名；还可以申请在线发布活动，赢取活动奖励。
+
+#####责任描述：
+
+1. 协助搭建系统框架，完成系统中公用模块的封装和抽取。
+2. 负责广场和社区模块中帖子和板块数据列表的展现。
+3. 广场模块中帖子的展示，分享，点赞，评论等具体功能的实现。
+4. 社区模块中板块中所有帖子的展现及该板块中新贴的发布。
+5. 发布帖子时表情的插入及图片的上传的实现。协助搭建系统框架，完成系统中公用模块的封装和抽取。
+
+#####技术要点：
+
+1. 使用ViewPager+Fragment+ListView展现广场和社区中不同类型的数据列表。并为ListView添加headView，用ViewPager实现轮播图。
+2. 对ListView列表中的数据实现下拉刷新，上拉加载更多的功能。
+3. 板块选择中采用Fragment+ListView实现不同板块类型数据的展示。
+4. 使用WebView加载服务器端html来展现具体图文混排的详情界面。
+5. 发布帖子和活动时，使用XUtils的HttpUtils实现数据提交和图片上传功能。
+6. 图片加载和显示使用二级缓存机制，避免程序OOM的出现。
+7. 使用百度地图定位用户所在位置到活动地址之间的线路规划。使用ViewPager+Fragment来搭建整个应用的结构框架。
+
+  #####项目名称：
+
+####iCivet（香信）
+
+#####项目描述：	
+
+这是一款提供旅行服务的app，涵盖了酒店、机票、火车票、景点门票的查询预定，还有旅游指南等功能。
+
+#####责任描述：
+
+1. 协助搭建系统框架，完成系统中公用模块的封装和抽取。
+2. 负责生活频道模块的部分和自定义底部Tab标签。
+
+#####技术要点：
+
+1. 使用ViewPager+Fragment来搭建整个应用的结构框架。
+2. 自定义底部Tab标签。
+3. 折叠动画来实现底部输入表情列表的显示和隐藏。
+4. 双列listView实现生活频道的选项区和内容区。
+5. 使用webView展现图文混排的新闻内容详情。
+6. 使用xutils作为客户端服务器数据请求和交互的框架。
+
+
+
